@@ -92,4 +92,6 @@ The Ruby backend can be deployed to:
 - `GET /api/books` - Get all books with filtering, sorting, and pagination
 - `GET /api/books/:id` - Get a specific book by ID
 - `GET /api/categories` - Get all categories
-- `POST /api/orders` - Submit a new order 
+- `POST /api/orders` - Submit a new order
+
+- Live at https://bhavyaa-1001.github.io/Printf/
